@@ -10,7 +10,7 @@ The AMBA APB4 Protocol project implements the Advanced Peripheral Bus (APB) prot
 This project involves implementing the AMBA APB protocol, consisting of an APB master, an APB slave, and an external system (such as a CPU). The external system sends commands to the APB master, which then communicates these commands to the APB slave. Inside the APB slave, a cache memory is integrated to facilitate testing of write and read processes. The testbench simulates the external system, allowing for the verification of the protocol's functionality.
 
 **Illustration:**
-![APB_Arch](Architecture/APB_Architecture_CR.png)
+![APB_Arch]("C:\Users\PANTHIL\Downloads\APB4_Architecture.png")
 
 ### Key Architectural Features:
 
